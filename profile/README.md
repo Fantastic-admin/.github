@@ -6,7 +6,7 @@
 
 基础版源码存放在 [fantastic-admin/basic](https://github.com/fantastic-admin/basic) 仓库内，以下是仓库分支说明：
 
-- `master` 框架源码分支，不含示例代码，可直接用于实际开发
+- `main` 框架源码分支，不含示例代码，可直接用于实际开发
 - `example` 演示源码分支，同线上演示站，包含大量示例，可用于参考学习
 - `vue2` Vue2 版本框架源码分支，不含示例代码，可直接用于实际开发（停止维护）
 - `vue2-example` Vue2 版本演示源码分支，包含大量示例，可用于参考学习（停止维护）
